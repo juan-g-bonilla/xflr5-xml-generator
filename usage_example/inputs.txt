@@ -1,0 +1,4 @@
+Name      p://Left_Side_FoilName               p://Right_Side_FoilName              p://Section[3]/Chord    a:Polar/Reference_Area    
+Test_A    NACA\_2030                           NACA\_2030                           2.0                     30
+Test_B    NACA\_2010                           NACA\_2010                           (0.4,0.2)               1
+none      1(NACA\_2010,NACA\_2012,NACA\_2018)  1(NACA\_2010,NACA\_2012,NACA\_2018)  2(1,0.75,0.5)           2(20,18,16)
