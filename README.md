@@ -3,6 +3,10 @@ Script to quickly generate xml files that XFLR5 can interpret as planes and anal
 If you want to run many simulations where the plane or analysis change only in a few parameters, then you normally need to slowly create those objects through the XFLR5 interface.
 With this script you can quickly generate hundreds of files and then import them into XFLR5.
 
+## Dependencies
+* python
+* NumPy
+
 ## Usage:
 Using this script is simple, but you will need to take a close look at the syntax of the input file if you truly want to take advantage of all its potential.
 
